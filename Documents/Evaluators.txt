@@ -1,2 +1,12 @@
+<<<<<<< Updated upstream
 hi
+=======
+william
+123
+gabriela
+>>>>>>> Stashed changes
+123
+profesor
+123
+estudiante
 123
